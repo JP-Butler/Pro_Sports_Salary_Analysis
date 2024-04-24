@@ -10,7 +10,7 @@ Analyzed the salaries of professional athletes across the 4 major North-American
 - [Technologies](#technologies)
 - [Data](#data)
 - [Analysis & Visualization](#analysis--visualization)
-- [Challenges](Challenges)
+- [Challenges](#challenges)
 - [Summary](#summary)
 
 ## Overview
