@@ -3,6 +3,7 @@
 Analyzed the salaries of professional athletes across the 4 major North-American Sports Leagues, the NFL, NBA, MLB and NHL for the period of 1991-2017.
 
 ## MVP1 - Tableau Analysis
+[View my Tableau work here!](https://public.tableau.com/app/profile/justin.butler7770/viz/Pro_Sports_Salary_Analysis/PlayerDash)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -12,6 +13,7 @@ Analyzed the salaries of professional athletes across the 4 major North-American
 - [Analysis & Visualization](#analysis--visualization)
 - [Challenges](#challenges)
 - [Summary](#summary)
+- [Video Demo](#video-demo)
 
 ## Overview
 The first iteration of this project (MVP1) will analyze the salaries of professional athletes as well as the total team payrolls (total salary expenditures on players) of the 4 major North American Sports Leagues, the NFL, NBA, MLB and NHL. Finalizing in Tableau Dashboard and a story. 
@@ -56,3 +58,8 @@ Overall data quality presented the most challenges for MVP1. Difficulty initiall
 At the end of MVP1 an interactive Tableau analysis was complete. Consisting of:
 - 2 Dashboards, a Player dashboard visualizing the salaries of players in the 4 sports leagues and a Team dashboard analyzing the team expenditures on player salaries
 - A "Tableau Story" developing a narrative to my data, focusing on the growth of the 2 financial variables (player salary & team payroll)
+
+# Video Demo
+
+
+<video controls src="Tableau-Demo.mp4" title="Title"></video>
