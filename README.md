@@ -62,4 +62,6 @@ At the end of MVP1 an interactive Tableau analysis was complete. Consisting of:
 # Video Demo
 
 
-<video controls src="Tableau-Demo.mp4" title="Title"></video>
+
+https://github.com/JP-Butler/Pro_Sports_Salary_Analysis/assets/129707393/3e99d251-2fdc-40ea-b602-9a069a2c2eba
+
